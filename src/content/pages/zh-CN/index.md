@@ -11,13 +11,13 @@ site_problems_header: "问题"
 site_report_issues: "报告网站问题"
 site_disclaimer: "**免责声明:** 本站是一个由社区推动的非商业性项目。仅用于提供信息与教育目的。"
 site_privacy: "**隐私:** 本站不使用cookies，以及用户跟踪或记录"
-site_copyright: "**版权:** 公有领域。本网站使用"
+site_copyright: "**版权:** 无。本网站使用"
 
 open_letter_cta: "阅读我们反对安卓开发者验证计划的公开信"
 ---
 
-2025年8月，Google [宣布](https://developer.android.google.cn/developer-verification?hl=zh-cn)从明年开始，未先向Google注册，将不再能为Android平台开发应用程序。
-包括但不限于：
+2025年8月，Google [宣布](https://developer.android.google.cn/developer-verification?hl=zh-cn)从明年9月开始，未先向Google注册，将不再能为Android平台开发应用程序。
+注册内容包括但不限于：
 
 - 向Google支付费用
 {:.li-list .li-money}
@@ -69,7 +69,7 @@ open_letter_cta: "阅读我们反对安卓开发者验证计划的公开信"
 
 —— _只有在开发商的默许下，他们的邪恶计划才会得逞_ ——
 
-不要建议其他应用程序开发人员还有组织注册该计划。你可以通过论坛、社交媒体和博客文章来传播该信息。可将[FreeDroidWarn library](https://github.com/woheller69/FreeDroidWarn)包含在你的代码来通知你的应用用户。
+阻止其他应用程序开发人员还有组织注册该计划。你可以通过论坛、社交媒体和博客文章来传播该信息。可将[FreeDroidWarn library](https://github.com/woheller69/FreeDroidWarn)包含在你的代码来通知你的应用用户。 如果您是网站所有者, 考虑在您的页面顶部 [添加倒计时横幅](/banner)。
 
 如果你是一名有心的Google正式员工或合同工，并且对该计划有更多了解，包括计划中的技术实施细节或该计划实施的其他缘由，请通过一台 _非工作_ 设备和 _非 Gmail_ 账户与[tips@keepandroidopen.org](mailto:tips@keepandroidopen.org)联系。你的信息将被严格保密。
 
